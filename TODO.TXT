@@ -1,0 +1,11 @@
+
+ Terminal emulator for Linux.
+
+ OK, the main goal of this project is having a basic terminal emulator
+running on Linux host machine.
+ This code was ported from Gramado OS and it uses the client-side library 
+for Gramado OS. Our goal is substitute the Gramado OS for Linux libraries
+necessary for this work. btw 'api/' stays here just for reference, we're not
+gonna use it at all.
+
+
